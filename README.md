@@ -16,3 +16,7 @@ Her sürümde `SHA256SUMS.txt` bulunur. İndirdiğin dosyayı doğrulamak için:
 - Linux: `sha256sum -c SHA256SUMS.txt --ignore-missing`
 
 Üçüncü taraf bileşenlerin lisansları her sürümdeki `THIRD_PARTY_NOTICES.md` dosyasındadır.
+
+## Test
+
+İki kişilik Linux ve ses testi adımları: [LINUX_TEST.md](LINUX_TEST.md)
